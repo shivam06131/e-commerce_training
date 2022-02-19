@@ -1,0 +1,15 @@
+.Homepage_Navbar-container {
+  background-color: aquamarine;
+  height: 13vh;
+  display: flex;
+  align-items: center;
+  padding-left: 1rem;
+}
+
+.Homepage_Navbar-container h1 {
+  margin: 0;
+  font-size: 3rem;
+  background-color: cadetblue;
+  padding: 0.3rem 1rem;
+  border-radius: 10px;
+}

@@ -1,0 +1,31 @@
+.checkout_container_root {
+  height: 100vh;
+  /* background-color: aqua; */
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.checkout_container {
+  border: 2px solid black;
+  width: 50vh;
+  height: 5.5rem;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  padding: 0 1rem;
+  margin: 0.5rem 0;
+}
+
+.checkout_container img {
+  height: 5rem;
+  width: 3.5rem;
+  border-radius: 5px;
+}
+.checkout_container h2 {
+  margin-left: 2rem;
+}
+.checkout_container h4 {
+  margin-left: 3rem;
+}
